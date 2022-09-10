@@ -1,0 +1,323 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"ju",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"ali",
+				"align-self-center \tBootstrap 4 Class"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"na",
+				"nav-item \tBootstrap 4 Class"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"fix",
+				"fixed-top \tBootstrap 4 Class"
+			],
+			[
+				"al",
+				"align-items-stretch \tBootstrap 4 Class"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"img",
+				"img-fluid \tBootstrap 4 Class"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"align-i",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"align-s",
+				"align-self-center \tBootstrap 4 Class"
+			],
+			[
+				"text-",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"backg",
+				"background-attachment"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"im",
+				"img-fluid"
+			],
+			[
+				"lins",
+				"list-inline-item"
+			],
+			[
+				"li",
+				"list-inline"
+			],
+			[
+				"col-sm",
+				"col-sm-3"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Project PSD 2 BOOTSTRAP/Dental/index.html",
+		"/F/Project PSD 2 BOOTSTRAP/Dental/css/style.css",
+		"/F/Project PSD 2 BOOTSTRAP/Dental/css/responsive.css",
+		"/C/Users/DIU/Desktop/test/css/style.css",
+		"/C/Users/DIU/Desktop/test/index.html",
+		"/F/Bootstrap 3.3.7-Quick Start Pack/index.html",
+		"/C/Users/DIU/Desktop/test/Bootstrap-Quick Start Pack/index.html",
+		"/F/Project PSD 2 BOOTSTRAP/2.Mache/css/style.css",
+		"/F/Project PSD 2 BOOTSTRAP/2.Mache/index.html",
+		"/G/SSB(PSD TO BOOTSTRAP)/4th Class Mache/mache/mache/index.html",
+		"/F/Project PSD 2 BOOTSTRAP/2.Mache/js/main.js",
+		"/G/SSB(PSD TO BOOTSTRAP)/4th Class Mache/mache/mache/css/style.css",
+		"/C/Users/DIU/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/F/Bootstrap-Quick Start Pack/index.html",
+		"/G/SSB(PSD TO BOOTSTRAP)/1st Class Resturant/restaurant_source_code/index.html",
+		"/F/Project PSD 2 BOOTSTRAP/1.Resturant/css/style.css",
+		"/G/SSB(PSD TO BOOTSTRAP)/1st Class Resturant/restaurant_source_code/css/custom.css",
+		"/F/Project PSD 2 BOOTSTRAP/1.Resturant/index.html",
+		"/C/Users/DIU/Desktop/html/index.html",
+		"/F/Project PSD 2 BOOTSTRAP/1. Resturant/index.html",
+		"/F/Project PSD 2 BOOTSTRAP/1. Resturant/css/style.css",
+		"/C/Users/DIU/Desktop/o.html",
+		"/C/Users/DIU/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
